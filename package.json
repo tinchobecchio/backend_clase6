@@ -1,0 +1,24 @@
+{
+  "name": "entregable",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinchobecchio/backend_clase6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinchobecchio/backend_clase6/issues"
+  },
+  "homepage": "https://github.com/tinchobecchio/backend_clase6#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
